@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tesla Model 3 [NOT FINISHED]
+* source:	https://sketchfab.com/3d-models/tesla-model-3-not-finished-28dae1d32e644e608f4258a63da63060
+* author:	BlueMesh (https://sketchfab.com/VapTor)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tesla Model 3 [NOT FINISHED]" (https://sketchfab.com/3d-models/tesla-model-3-not-finished-28dae1d32e644e608f4258a63da63060) by BlueMesh (https://sketchfab.com/VapTor) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
